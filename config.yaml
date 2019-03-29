@@ -1,0 +1,47 @@
+baseURL: "http://placeholder.org"
+
+languageCode: "en-us"
+DefaultContentLanguage: "en"
+title: "The Book of Ecumenopolis"
+theme: "book"
+
+hasCJKLanguage: false
+metaDataFormat: "yaml"
+
+pygmentsUseClasses: true
+pygmentsCodefences: true
+
+defaultContentLanguage: "en"
+defaultContentLanguageInSubdir: false
+enableMissingTranslationPlaceholders: false
+
+Params:
+    BookSection: '*'
+    BookEnableJS: true
+    BookEditPath: edit/master/content
+    BookRepo: "https://github.com/ecumenopolis/suggestions"
+    version: "0.0.1"
+
+    # Souce Code repository section
+    description: "A new law by personal consent"
+
+    # Analytic section
+    google_analytics_id: "" # Your Google Analytics tracking id
+    tag_manager_container_id: "" # Your Google Tag Manager container id
+    google_site_verification: "" # Your Google Site Verification
+
+    # Theme settings section
+    dateformat: "" # default "2 Jan 2006"
+    # See the format reference https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
+
+    # path name excluded from documentation menu
+    menu_exclusion: ["archives", "blog", "entry", "post", "posts"]
+
+
+# Global menu section
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+  
