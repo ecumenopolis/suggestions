@@ -1,4 +1,5 @@
-baseURL: "http://placeholder.org"
+baseURL: "http://ecumenopolis.net"
+disableKinds: ["taxonomy", "taxonomyTerm"]
 
 languageCode: "en-us"
 DefaultContentLanguage: "en"
@@ -16,27 +17,34 @@ defaultContentLanguageInSubdir: false
 enableMissingTranslationPlaceholders: false
 
 Params:
-    BookSection: '*'
-    BookEnableJS: true
-    BookEditPath: edit/master/content
-    BookRepo: "https://github.com/ecumenopolis/suggestions"
-    version: "0.0.1"
+  # (Optional, default true) Show or hide table of contents globally
+  # You can also specify this parameter per page in front matter
+  BookShowToC: true
 
-    # Souce Code repository section
-    description: "A new law by personal consent"
+  # (Optional, default docs) Specify section of content to render as menu
+  # You can also set value to "*" to render all sections to menu
+  BookSection: '*'
 
-    # Analytic section
-    google_analytics_id: "" # Your Google Analytics tracking id
-    tag_manager_container_id: "" # Your Google Tag Manager container id
-    google_site_verification: "" # Your Google Site Verification
+  # This value is duplicate of $link-color for making active link highlight in menu bundle mode
+  # BookMenuBundleActiveLinkColor: \#004ed0
 
-    # Theme settings section
-    dateformat: "" # default "2 Jan 2006"
-    # See the format reference https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
+  # Include JS scripts in pages. Disabled by default.
+  # - Keep side menu on same scroll position during navigation
+  BookEnableJS: true
 
-    # path name excluded from documentation menu
-    menu_exclusion: ["archives", "blog", "entry", "post", "posts"]
+  # Set source repository location.
+  # Used for 'Last Modified' and 'Edit this page' links.
+  BookRepo: https://github.com/ecumenopolis/suggestions
 
+  # Enable "Edit this page" links for 'doc' page type.
+  # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
+  # Path must point to 'content' directory of repo.
+  BookEditPath: edit/master/content
+
+  # Configure the date format used on the pages
+  # - In git information
+  # - In blog posts
+  BookDateFormat: "Jan 2, 2006"
 
 # Global menu section
 menu:
