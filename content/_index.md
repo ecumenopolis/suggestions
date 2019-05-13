@@ -17,8 +17,6 @@ We believe that the majority of people should be able to knowing and voluntarily
 
 Additionally, as the need arises, this document can and should be amended individually and shared with others.  The ability for change is important because of changes in language over time, and due to [semantic drift](https://en.wikipedia.org/wiki/Semantic_change).  Many other attempts at writing a covenant like this have failed in the long term due to a failure to adapt and the development of [mysticism](https://en.wikipedia.org/wiki/Mysticism) around semantically drifted words.  Thus this document will be maintained in unicode, and maintained in a version control system such as git.  In this way, forks can be made, and changes reviewed with rationale by anyone who seeks to better understanding what they are taking upon themselves.
 
-We have chosen the name `Ama-gi project` because the word Ama-gi is from one of the oldest known languages.  It means "to return to the mother" and it represented the concern of returning a slave to their family, and the forgiveness of their debts.
+We have chosen the name `The Book of Ecumenopolis` because we seek to create a common citizenry.  Ecumenopolis means "world city."  In order to accomplish this vision, we seek to create a common set of laws which everyone can commit to themselves to follow.
 
 The primary mechanism by which we will improve the human condition is by creating a voluntary system of rules and values which are result in clear and direct human action.   These rules should create a [Nash Equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium) whereby everyone will voluntarily follow these commitments.  The commitments should ensure that [public goods](https://en.wikipedia.org/wiki/Public_good)  are paid for and produced in reasonable proportion to the total economic activity, and that a set of laws that can be agreed upon and followed by two standard deviations worth of the population (95%).
-
-
