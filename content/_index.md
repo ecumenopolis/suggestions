@@ -7,7 +7,7 @@ weight: 1
 
 # A Vision For Us
 
-The goal of this project is to maximize human flourishing and minimize human suffering.  We believe that we can accomplish this by seeking to maximize human freedom.  Maximizing human freedom allows each person’s wisdom and discernment to be productive in society to maximal effect.  We know this is necessary due to the examples of the [coordination problem](https://www.econlib.org/library/Essays/rdPncl.html?chapter_num=2#book-reader), and the [economic calculation problem](https://en.wikipedia.org/wiki/Economic_calculation_problem).
+The goal of this project is to maximize human flourishing and minimize human suffering.  We[^1] believe that we can accomplish this by seeking to maximize human freedom.  Maximizing human freedom allows each person’s wisdom and discernment to be productive in society to maximal effect.  We know this is necessary due to the examples of the [coordination problem](https://www.econlib.org/library/Essays/rdPncl.html?chapter_num=2#book-reader), and the [economic calculation problem](https://en.wikipedia.org/wiki/Economic_calculation_problem).
 
 We believe that we can maximize human freedom, and flourishing, by voluntarily taking upon ourselves some personal commitments.  We recognize that we know only a little.  Therefore we do not seek to create perfection, but only to create an agreement which works for us as individuals  We hope that it will work for everyone else as well.
 
@@ -20,3 +20,5 @@ Additionally, as the need arises, this document can and should be amended indivi
 We have chosen the name `The Book of Ecumenopolis` because we seek to create a common citizenry.  Ecumenopolis means "world city."  In order to accomplish this vision, we seek to create a common set of laws which everyone can commit to themselves to follow.
 
 The primary mechanism by which we will improve the human condition is by creating a voluntary system of rules and values which are result in clear and direct human action.   These rules should create a [Nash Equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium) whereby everyone will voluntarily follow these commitments.  The commitments should ensure that [public goods](https://en.wikipedia.org/wiki/Public_good)  are paid for and produced in reasonable proportion to the total economic activity and that a set of laws that can be agreed upon and followed by two standard deviations worth of the population (95%).
+
+[^1]: "We" henceforth is referring to anyone who has commited to this document, or chooses to identify themselves as part-author.  It is up to you if you wish to include yourself in "we".
