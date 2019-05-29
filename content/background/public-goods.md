@@ -5,6 +5,8 @@ weight: 200
 
 ---
 
+# Public Goods
+
 Goods are materials that satisfy human wants and provide utility, for example, to a consumer making a purchase of a satisfying product. Public goods is a good that is both non-excludable and non-rivalrous in that individuals cannot be excluded from use or could be enjoyed without paying for it, and where use by one individual does not reduce availability to others or the goods can be effectively consumed simultaneously by more than one person. This is in contrast to a common good which is non-excludable but is rivalrous to a certain degree. [^1]
 
 The fact that these goods are non-excludable, gives rise to problem.  That problem has to do with the incentives to pay for public goods.  Given that public goods to have an expense to produce, but you need not pay to have access, then it does not make rational sense to pay for these goods.  However, if no citizens pay for public goods, then they may not be produced at all.  An economic modeling of this phenomenon occurs with the [public goods game](https://en.wikipedia.org/wiki/Public_goods_game).
