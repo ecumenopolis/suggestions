@@ -2,6 +2,7 @@
 title: "Educated Intolerance"
 type: docs
 weight: 200
+draft: true
 
 ---
 
